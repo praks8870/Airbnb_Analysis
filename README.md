@@ -28,4 +28,21 @@ Step-1:
 As the first step make a streamlit app with three pages With Home page, Extraction page, Explore page.
 
 Step-2:
-Use functional blocks to 
+Use functional blocks to define the code and use it whereever it has to be used,
+Iam Creating codes for connecting to database, and preprocess the data, then examine the data, and to optimise the data.
+
+Step-3:
+In the extract page I used to give four buuttons like connect to database, then extract the data, Then examine the data,
+While examining the data I created scatter plot against the price will all other numerical columns to check if there is some outliers.
+
+Step-4:
+In this step I use fourth button to optimise the data which is going to remove outliers for us to optimse the data to be used.
+
+Step-5:
+Then in the explore page I created visuals and geo maps for visualisation of the data.
+
+Step-6:
+After the streamlit app creation the data extracted is saved in the same folder as the base code file available.
+I use PowerBI to analyse and create a dynamic dashboard for price analysis. I have given the dashboard file in this repository for everyone to see.
+
+![image][
