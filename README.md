@@ -45,4 +45,4 @@ Step-6:
 After the streamlit app creation the data extracted is saved in the same folder as the base code file available.
 I use PowerBI to analyse and create a dynamic dashboard for price analysis. I have given the dashboard file in this repository for everyone to see.
 
-![image][
+![image](https://github.com/praks8870/Airbnb_Analysis/blob/main/PowerBI_Dashboard.png)
