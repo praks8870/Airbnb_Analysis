@@ -23,7 +23,7 @@ The data was stored in mongoDB atlas, We have to create a cluster to connect to 
 Then we use pandas to pre process the data like finding and removing the blank columns and use appropriate measures to fill the data.
 After that we use matplotlib to plot some graph to analyse the data which going to be working or throw some error. If the data has outliers we should remove it before we start analysing.
 
-##Process Steps:
+## Process Steps:
 Step-1:
 As the first step make a streamlit app with three pages With Home page, Extraction page, Explore page.
 
